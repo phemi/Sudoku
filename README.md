@@ -5,6 +5,6 @@ To run:
 Clone the project
 Compile and run Main.java
 
-![alt text](board.png)
+![alt text](board.jpg)
 
-![alt text](home.png)
+![alt text](home.jpg)
